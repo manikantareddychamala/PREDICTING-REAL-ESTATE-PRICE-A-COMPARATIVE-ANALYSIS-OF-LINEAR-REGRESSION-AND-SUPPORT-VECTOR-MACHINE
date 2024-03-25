@@ -50,5 +50,10 @@ y_train = classier.fit(x_train)
 
 # 3. validation on train set results
 # 4. validation on test set results
+[
+![image](https://github.com/manikantareddychamala/PREDICTING-REAL-ESTATE-PRICE-A-COMPARATIVE-ANALYSIS-OF-LINEAR-REGRESSION-AND-SUPPORT-VECTOR-MACHINE/assets/162694056/7514b35a-d017-4f07-bbc3-67ac81ab6fec)
+](url)
+
+
 # 5. CONCLUSION : Finally after doing two Algorithm executions we got the best fit model performance is "SUPPORT VECTOR MACHINE"(SVM) . We got the predected values and actual values are equal in svm model
 
