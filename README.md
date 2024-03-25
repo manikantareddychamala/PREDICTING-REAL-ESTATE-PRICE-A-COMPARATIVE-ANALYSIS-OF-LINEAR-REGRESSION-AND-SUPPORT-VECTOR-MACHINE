@@ -1,15 +1,20 @@
-DATA PREPROCESSING
-1.Need to import libraries and modules in to the program
+#DATA PREPROCESSING
+#1.Need to import libraries and modules in to the program
+ 
   import numpy as nm
   import matplotlib.pyplot as mtp
   import pandas as pd
+  
 # 2.we have to load the dataset
 data_set = pd.read_cv("BENGULAR_DATASET")
+
 # 3. Extract the dependent and independent variables into data set for location(iloc: stands for index location)
 x = data_set.iloc[::-1]
+
 y = data_set.iloc[::1]
 # 4. split the dataset into two parts for testing and training
 #sklearn.library
+
 from sklearn.model_selection import train_test_spilt:
 x_train,x_test,y_test,y_train = train_test_split(x,y,test_size=0.3, random_state=5)
 
