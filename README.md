@@ -37,6 +37,10 @@ mtp.y_label("prices");
 # 8. then after we have to do the validation on testing the same instead of x_train,y_train we use x_test, y_test;
 conclusion: linear regression is the Best fit model execution
 
+
+![image](https://github.com/manikantareddychamala/PREDICTING-REAL-ESTATE-PRICE-A-COMPARATIVE-ANALYSIS-OF-LINEAR-REGRESSION-AND-SUPPORT-VECTOR-MACHINE/assets/162694056/c65e6102-d161-4bd6-9433-44212d37b59f)
+
+
 # support vector machine process in machine learning
 from sklearn.model import svc(classifer)
 classifer = support vector machine
