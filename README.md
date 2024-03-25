@@ -1,3 +1,7 @@
+# INTRODUCTION 
+About my project ["PREDECTING REAL ESTATE PRICE USING LINEAR REGRESSION AND SUPPORT VECTOR Machine"]
+# DOMAIN ---> 
+
 # DATA PREPROCESSING --->
 
 # 1.Need to import libraries and modules in to the program
