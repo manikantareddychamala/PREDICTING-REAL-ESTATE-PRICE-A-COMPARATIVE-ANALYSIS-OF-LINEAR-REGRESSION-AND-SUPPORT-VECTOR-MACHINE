@@ -2,7 +2,10 @@
 
 About my project ["PREDECTING REAL ESTATE PRICE USING LINEAR REGRESSION AND SUPPORT VECTOR Machine"] 
 
-# Librarey's that are used in project
+# Librarey's that are used in project : 
+              
+![image](https://github.com/manikantareddychamala/PREDICTING-REAL-ESTATE-PRICE-A-COMPARATIVE-ANALYSIS-OF-LINEAR-REGRESSION-AND-SUPPORT-VECTOR-MACHINE/assets/162694056/c5c906ad-f81e-4ae9-b40a-3b66917e4e8b)
+
 
                  
 ![image](https://github.com/manikantareddychamala/PREDICTING-REAL-ESTATE-PRICE-A-COMPARATIVE-ANALYSIS-OF-LINEAR-REGRESSION-AND-SUPPORT-VECTOR-MACHINE/assets/162694056/0dfe5b8e-1096-4009-ab7a-282460148c27)
