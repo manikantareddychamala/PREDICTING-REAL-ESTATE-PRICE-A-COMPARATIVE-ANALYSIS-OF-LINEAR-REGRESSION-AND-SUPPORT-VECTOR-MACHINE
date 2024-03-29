@@ -1,6 +1,7 @@
 # INTRODUCTION:
 
 About my project ["PREDECTING REAL ESTATE PRICE USING LINEAR REGRESSION AND SUPPORT VECTOR Machine"] 
+[http://localhost:8892/notebooks/real%20estate%20project%20graphs.ipynb](url)
 
 # Librarey's that are used in project : 
               
